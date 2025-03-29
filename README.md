@@ -1,6 +1,6 @@
 # REV Template
 
-This project provides a very barebones expantion on the basic Vite-React template, adding an Express server and TailwindCSS support.
+This project provides a very barebones expansion on the basic Vite-React template, adding an Express server and TailwindCSS support.
 
 Core technologies:
   * Typscript: 5.+
